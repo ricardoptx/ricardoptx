@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ricardo Ribeiro
+- 🌱 I’m currently learning ... C++ / C#
+- 📫 How to reach me ... Just don't
